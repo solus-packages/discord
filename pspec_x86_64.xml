@@ -101,8 +101,8 @@
         </Replaces>
     </Package>
     <History>
-        <Update release="40">
-            <Date>2023-07-13</Date>
+        <Update release="41">
+            <Date>2023-09-10</Date>
             <Version>0.0.28</Version>
             <Comment>Packaging update</Comment>
             <Name>Joey Riches</Name>
